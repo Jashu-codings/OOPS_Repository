@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+ OOPS_Branch1
+    <list default="true" id="7b20b0ab-9675-4751-b4b4-eec5060a218f" name="Changes" comment="changes commited to master">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jashu/OOPS/basic_oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jashu/OOPS/basic_oops.java" afterDir="false" />
+    </list>
     <list default="true" id="7b20b0ab-9675-4751-b4b4-eec5060a218f" name="Changes" comment="changes commited to oops1st branch" />
+ master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -41,12 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+ OOPS_Branch1
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "OOPS__Branch1",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/IntelliJ IDEA/Basics_Arrays/OOPS/src/Main.java"
+
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelliJ IDEA/Basics_Arrays/OOPS/src/Main.java&quot;
+ master
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,6 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729099094969</updated>
     </task>
+ OOPS_Branch1
+    <task id="LOCAL-00002" summary="changes commited to master">
+      <option name="closed" value="true" />
+      <created>1729099222084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729099222085</updated>
+
     <task id="LOCAL-00002" summary="changes commited to oops1st branch">
       <option name="closed" value="true" />
       <created>1729101602765</created>
@@ -73,6 +102,7 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1729101602765</updated>
+ master
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
