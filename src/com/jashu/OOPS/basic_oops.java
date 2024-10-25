@@ -12,9 +12,5 @@ public class basic_oops {
         System.out.println(array[2] + " got the element on 2nd indices or 3rd size element");
 
 
-
-
-
-
     }
 }
